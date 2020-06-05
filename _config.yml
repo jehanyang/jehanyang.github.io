@@ -1,17 +1,18 @@
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               Jehan Yang
+tagline:             'Pursuing Work in Advanced Robotics'
+description:         'My <b>personal website</b > where I hope to put impactful advice and ideas for aspiring robotics enthusiasts.'
+url:                 https://jehanyang.com
 baseurl:             ''
 paginate:            5
 permalink:           pretty
+paginate_path:       "blog/page:num/"
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Jehan Yang
+  url:               https://twitter.com/jehanyang
+  email:             jehanyang@gmail.com
 
 # Gems
 plugins:
