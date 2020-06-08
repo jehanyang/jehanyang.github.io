@@ -10,14 +10,14 @@ title: About
 	Hi there, I'm <b>Jehan Yang</b>. Thank you for your interest! I am currently an MS student at Caltech in Electrical Engineering, and I just finished my BS at UC Berkeley in Mechanical Engineering. My interest is in working on impactful robotics!  
 </p >
 
-My previous work involved *biomimetic robotics*, which I thoroughly enjoyed working on. The complex dynamic systems created by nature are not only inspiring, but effective engineering solutions!
+My previous work involved *biomimetic robotics*, which I thoroughly enjoyed working on. The complex dynamic systems created by nature are not only inspiring, but effective engineering solutions! I have worked in the [Biomimetic Millisystems Lab](https://people.eecs.berkeley.edu/~ronf/Biomimetics.html) with Professor [Ronald S. Fearing](https://people.eecs.berkeley.edu/~ronf/) and in the [Gu Research Group](gu.berkeley.edu) with Professor [Grace X. Gu](https://me.berkeley.edu/people/grace-x-gu/). 
 
-See my previous work here:
+See my previous research work here:
 
-* [VelociRoACH](url)
-* [Salto](url)
-* [Soft Robotic Joint](url)
 * [Biomimetic Finger](url)
+* [Soft Robotic Joint](url)
+* [Salto](url)
+* [VelociRoACH](url)
 
 In the future, I would like to work on robotic solutions that directly help people, especially in the medical field. I will be applying for PhD programs in the Fall of 2020 and hope to join an awesome lab.
 
