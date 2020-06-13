@@ -39,7 +39,7 @@ On this homepage, I will present my recent news and my portfolio. For more conte
   <div class="column">
   <a class="nochangelink" href="/portfolio/biomfing">
   <div class="card">
-  <img src="/images/BiomFing.png" alt="Biomimetic Finger Projects" style="width:100%;border-radius: 5px 5px 0 0;">
+  <img src="/images/biomFing.png" alt="Biomimetic Finger Projects" style="width:100%;border-radius: 5px 5px 0 0;">
   <div class="container">
    <strong>Biomimetic Finger</strong>
    <p>Lead Researcher, Haas Scholar</p> 
