@@ -4,7 +4,7 @@ title: Home
 ---
 # Home
 
-<p class=message>
+<p class="message">
 On this homepage, I will present my recent news and my portfolio. For more content, like blog posts about ME and EECS classes at UC Berkeley, click <b>☰</b > on the top left! 
 </p>
 ## Recent News
