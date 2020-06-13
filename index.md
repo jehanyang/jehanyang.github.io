@@ -166,4 +166,3 @@ On this homepage, I will present my recent news and my portfolio. For more conte
 
 <span></span>
 
-Check out my [About](./about) for more information about me!
