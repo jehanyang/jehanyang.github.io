@@ -2,7 +2,7 @@
 title:               Jehan Yang
 tagline:             'Pursuing Work in Advanced Robotics'
 description:         'My <b>personal website</b > where I hope to put impactful advice and ideas for aspiring robotics enthusiasts.'
-url:                 https://jehanyang.com
+url:                 https://jehanyang.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
