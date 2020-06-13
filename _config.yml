@@ -7,7 +7,7 @@ baseurl:             ''
 paginate:            5
 permalink:           pretty
 paginate_path:       "blog/page:num/"
-remote_name:         poole/lanyon
+remote_name:         "poole/lanyon"
 
 # About/contact
 author:
