@@ -41,3 +41,7 @@ validation-report.json
 # Folders to ignore
 node_modules
 bower_components
+
+# Ignore ssh keys
+key1
+key1.pub
