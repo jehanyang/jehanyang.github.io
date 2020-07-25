@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-# Home
+<h1 id="home" style="margin-block-start:0">Home</h1>
 
 <p class="message">
 On this homepage, I will present my recent news and my portfolio. For more content, like blog posts about ME and EECS classes at UC Berkeley, click <b>☰</b > on the top left! 
