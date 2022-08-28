@@ -21,4 +21,4 @@ When I was mechanical lead in PiE I worked on creating cost-effective robot part
 
 These robot parts are used in robot kits that high school students use to build robots for a robot competition every Spring. Through iteration, the cost of the robot mechanical kit was reduced by 50% and positive feedback was improved by 75% during my time as a lead. 
 
-Today, I still work as treasurer for PiE, working on financial statements, funding, and taxes. If you want your money to go as far as possible in making an impact on disparate STEM education in the East Bay, make a tax-deductible [donation to PiE!](https://pierobotics.org/support-pie/)
+Today, I still work as treasurer for PiE, working on financial statements, funding, and taxes. If you want your money to go as far as possible in making an impact on equitable STEM education in the East Bay, make a tax-deductible [donation to PiE!](https://pierobotics.org/support-pie/)

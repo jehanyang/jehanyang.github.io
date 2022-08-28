@@ -12,6 +12,6 @@ The biomimetic finger project is a project led by me in the <a href="gu.berkeley
 
 <img src="/images/biomFing.png" style="width:50%; float:right; margin-right:0.3rem; padding-left:0.8rem; border-radius:0">
 
-The biomimetic finger project uses concepts from robotics and biology such as tendon-based actuation, compliant mechanisms, and underactuation to achieve advantages optimized by nature. During the summer of 2020 I will be working on gathering results and writing a paper based on this work. 
+The biomimetic finger project uses concepts from robotics and biology such as tendon-based actuation, compliant mechanisms, and underactuation to achieve advantages optimized by nature. During the summer of 2020 I worked on gathering results and presenting to the Haas Scholars Winter Conference. 
 
-This work was made possible by the Haas Scholars Fellowship, which awards the largest undergraduate research award at UC Berkeley to 20 high-performing seniors. This group of 20 is made into a cohort that share their research experiences, feedback, and lives together for an unmatchable experience. 
+This work was made possible by the Haas Scholars Fellowship, which awards the largest undergraduate research award at UC Berkeley to 20 high-performing seniors. This group of 20 diverse, lower-income scholars is made into a cohort that share their research experiences, and feedback for an unmatchable experience. 
