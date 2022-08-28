@@ -1,6 +1,6 @@
-# Jehan Yang Personal/Professional Site
+# :black_nib: Jehan Yang's Website
 
-This site uses the Lanyon template and is modified to have a card-based portfolio, a sleek *About* page, and a *Blog* page that is not on the homepage.
+This site uses the Lanyon template and is modified to have a card-based portfolio.
 
 ## Contents
 
