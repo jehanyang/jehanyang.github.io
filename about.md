@@ -12,6 +12,9 @@ title: Hi, nice to meet you!
 
 At Caltech, I worked in the [AMBER Lab](http://www.bipedalrobotics.com/) with Professor [Aaron Ames](http://www.bipedalrobotics.com/people.html). At UC Berkeley, I worked in the [Biomimetic Millisystems Lab](https://people.eecs.berkeley.edu/~ronf/Biomimetics.html) with Professor [Ronald S. Fearing](https://people.eecs.berkeley.edu/~ronf/) and in the [Gu Research Group](https://gu.berkeley.edu) with Professor [Grace X. Gu](https://me.berkeley.edu/people/grace-x-gu/). 
 
+If you are interested in my publications, I have a [Google
+Scholar](https://scholar.google.com/citations?user=SYQvCw4AAAAJ&hl=en) that is kept up to date. 
+
 ## More About Me
 
 I was born in Taiwan and moved to the United States when I was six years old. For high school, I went to [Douglas Anderson School of the Arts](https://dcps.duvalschools.org/anderson) in Jacksonville and also [Diamond Bar High School](https://dbhs.wvusd.k12.ca.us/) near Los Angeles.
