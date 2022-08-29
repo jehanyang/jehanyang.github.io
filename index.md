@@ -11,12 +11,12 @@ On this homepage, I will present my recent news and my portfolio. For more conte
 <ul style="margin-bottom:0px">
 <li><em>June 2022</em>&mdash;I begin working full-time as a software intern at fast-food robotics startup, <a href="misorobotics.com">Miso Robotics</a>.</li>
 <li><em>April 2022</em>&mdash;I committed to my PhD at <a href="https://cmu.edu">Carnegie Mellon University</a> with advisors Zackory Erickson and Doug Weber! I received a 2-year fully-funded departmental fellowship. </li>
-<li><em>June 2020</em>&mdash;I start my internship with the self-driving car startup, <a href="nuro.ai">Nuro</a>.</li>
-<li><em>May 2020</em>&mdash;I committed to starting my MS in Electrical Engineering at <a href="ee.caltech.edu">Caltech</a> with a 2-year fully-funded 2-year departmental fellowship.</li>
-<li><em>April 2020</em>&mdash;I received the <a href="nsfgrfp.org">NSF GRFP</a>! I am indescribably grateful for my mentors&#39; and friends&#39;     help.</li>
 </ul>
 <details style="padding-top:10px;"><summary style="padding-left: 20px; padding-bottom: 0px; margin-bottom:0px; font-size:20px"><strong>More</strong></summary><p style="padding-left: 20px" >
 <ul style="margin-top:0px; padding-top:0px">
+<li><em>June 2020</em>&mdash;I start my internship with the self-driving car startup, <a href="nuro.ai">Nuro</a>.</li>
+<li><em>May 2020</em>&mdash;I committed to starting my MS in Electrical Engineering at <a href="ee.caltech.edu">Caltech</a> with a 2-year fully-funded departmental fellowship.</li>
+<li><em>April 2020</em>&mdash;I received the <a href="nsfgrfp.org">NSF GRFP</a>! I am indescribably grateful for my mentors&#39; and friends&#39;     help.</li>
 <li><em>Sep. 2019</em>&mdash;I started working with <a href="covariant.ai">Covariant</a> as an intern.</li>
 <li><em>May 2019</em>&mdash;I received funding from the <a href="hsp.berkeley.edu">Haas Scholars Fellowship</a>, the largest research award for undergraduates at UC Berkeley.</li>
 </ul>
@@ -24,6 +24,20 @@ On this homepage, I will present my recent news and my portfolio. For more conte
 
 
 ## Portfolio
+
+<div class="row">
+  <div class="flex-column-sm"> 
+  <a class="nochangelink" href="portfolio/leg">
+  <div class="card">
+    <img src="/images/prosthLeg.png" alt="Caltech AMBER Lab Prosthetic Leg" style="width:100%;border-radius: 5px 5px 0 0;">
+  <div class="container">
+    <strong>Prosthetic Leg Pressure Sensing</strong>
+    <p>Software Lead</p>
+  </div>
+  </div>
+  </a>
+  </div>
+</div>
 
 <div class="row">
   <div class="column">
