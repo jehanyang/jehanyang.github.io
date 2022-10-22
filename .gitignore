@@ -45,3 +45,6 @@ bower_components
 # Ignore ssh keys
 key1
 key1.pub
+
+# Many gemspec files that are unnecessary
+vendor/
