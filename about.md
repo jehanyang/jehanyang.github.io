@@ -3,14 +3,11 @@ layout: page
 title: Hi, nice to meet you!
 ---
 
-<p class="message">
-<img src="../images/jehan4.jpg"
-     alt="An image of me"
-     style="width:160px;height:160px;border-radius:50%;float:left;margin-left:5px;margin-right:25px;margin-bottom:5px;margin-top:0px">
-	Hi there, I'm <b>Jehan Yang</b>. Thank you for your interest! I am currently a PhD student working on neural control of robotics at CMU. My two advisors are <a href="https://zackory.com/">Zackory Erickson</a> in the Robotics Institute and <a href="https://engineering.cmu.edu/directory/bios/weber-douglas.html">Doug Weber</a> in Mechanical Engineering and the Neuroscience Institute. I received my BS at UC Berkeley in Mechanical Engineering and my MS at Caltech in Electrical Engineering. My interest is in working on impactful robotics; previously I worked on biomimetic robots, soft manipulators, knee prosthetics, and now I program caretaker robots!  
-</p >
+<h3 class="message" style="line-height:1.5; margin-top:0.5rem; font-weight:normal">
+	👋 Hi there, I'm <b>Jehan Yang</b>. Thank you for your interest! I am currently a PhD student working on neural control of robotics at CMU. My two advisors are <a href="https://zackory.com/">Zackory Erickson</a> in the Robotics Institute and <a href="https://engineering.cmu.edu/directory/bios/weber-douglas.html">Doug Weber</a> in Mechanical Engineering and the Neuroscience Institute. 
+</h3 >
 
-At Caltech, I worked in the [AMBER Lab](http://www.bipedalrobotics.com/) with Professor [Aaron Ames](http://www.bipedalrobotics.com/people.html). At UC Berkeley, I worked in the [Biomimetic Millisystems Lab](https://people.eecs.berkeley.edu/~ronf/Biomimetics.html) with Professor [Ronald S. Fearing](https://people.eecs.berkeley.edu/~ronf/) and in the [Gu Research Group](https://gu.berkeley.edu) with Professor [Grace X. Gu](https://me.berkeley.edu/people/grace-x-gu/). 
+I received my BS at UC Berkeley in Mechanical Engineering and my MS at Caltech in Electrical Engineering. My interest is in working on impactful robotics; previously I worked on biomimetic robots, soft manipulators, knee prosthetics, and now I program caretaker robots! At Caltech, I worked in the [AMBER Lab](http://www.bipedalrobotics.com/) with Professor [Aaron Ames](http://www.bipedalrobotics.com/people.html). At UC Berkeley, I worked in the [Biomimetic Millisystems Lab](https://people.eecs.berkeley.edu/~ronf/Biomimetics.html) with Professor [Ronald S. Fearing](https://people.eecs.berkeley.edu/~ronf/) and in the [Gu Research Group](https://gu.berkeley.edu) with Professor [Grace X. Gu](https://me.berkeley.edu/people/grace-x-gu/). 
 
 If you are interested in my publications, I have a [Google
 Scholar](https://scholar.google.com/citations?user=SYQvCw4AAAAJ&hl=en) that is kept up to date. 

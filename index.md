@@ -4,9 +4,9 @@ title: Home
 ---
 <h1 id="home" style="margin-block-start:0">Home</h1>
 
-<p class="message">
-On this homepage, I will present my recent news and my portfolio. For more content, like an <b>About Me</b>, click <b>☰</b > on the top left! 
-</p>
+<h3 class="message" style="line-height: 1.5; font-weight: normal">
+🏠 On this homepage, I will present my recent news and my portfolio. For more content, like an <b>About Me</b>, click links on the sidebar to the left! 
+</h3>
 ## Recent News
 <ul style="margin-bottom:0px">
 <li><em>August 2022</em>&mdash;I begin my PhD at CMU!</li>
