@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example content
+title: Archived-Just an Example Blog Post for Using the Lanyon Template
 ---
 
 
