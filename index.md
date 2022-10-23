@@ -9,7 +9,7 @@ On this homepage, I will present my recent news and my portfolio. For more conte
 </p>
 ## Recent News
 <ul style="margin-bottom:0px">
-<li><em>August 2022</em>&mdash;I begin my PhD at CMU.</li>
+<li><em>August 2022</em>&mdash;I begin my PhD at CMU!</li>
 <li><em>June 2022</em>&mdash;I begin working full-time as a software intern at fast-food robotics startup, <a href="misorobotics.com">Miso Robotics</a>.</li>
 <li><em>April 2022</em>&mdash;I committed to my PhD at <a href="https://cmu.edu">Carnegie Mellon University</a> with advisors Zackory Erickson and Doug Weber! I received a 2-year fully-funded departmental fellowship. </li>
 </ul>
