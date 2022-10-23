@@ -30,7 +30,7 @@ title: Home
   <div class="flex-column-sm"> 
   <a class="nochangelink" href="portfolio/leg">
   <div class="card">
-    <img src="/images/prosthLeg.png" alt="Caltech AMBER Lab Prosthetic Leg" style="width:100%;border-radius: 5px 5px 0 0;">
+    <img src="/images/prosthLeg.jpg" alt="Caltech AMBER Lab Prosthetic Leg" style="width:100%;border-radius: 5px 5px 0 0;">
   <div class="container">
     <strong>Prosthetic Leg Pressure Sensing</strong>
     <p>Software Lead</p>
