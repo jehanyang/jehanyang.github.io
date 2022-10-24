@@ -9,14 +9,23 @@ function mobileCheck() {
   var sidebar = document.querySelector('#sidebar');
   var checkbox = document.querySelector('#sidebar-checkbox');
 
+  if(mobileCheck()) sidebar.style.width = '100%';
+
   document.addEventListener('click', function(e) {
     var target = e.target;
 
     if(!checkbox.checked ||
        sidebar.contains(target) ||
-       !mobileCheck() ||
        (target === checkbox || target === toggle)) return;
-
+    
     checkbox.checked = false;
+
+    if(!checkbox.checked) {
+      toggle.style.color = '#505050';
+    } else {
+      toggle.style.color = 'white';
+    }
+
+
   }, false);
 })(document);

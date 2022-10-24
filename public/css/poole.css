@@ -234,13 +234,6 @@ img {
   border-radius: 5px;
 }
 
-.imagelogo {
-  width: 25px;
-  height: 25px;
-  float: left;
-  margin: 0 0.2rem 0;
-}
-
 /* Tables */
 table {
   margin-bottom: 1rem;

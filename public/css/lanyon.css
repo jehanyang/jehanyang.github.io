@@ -108,6 +108,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #505050;
   display: block;
 }
+
 .masthead-title a {
   color: #505050;
 }
@@ -135,7 +136,7 @@ h1, h2, h3, h4, h5, h6 {
  * button in the corner of the page.
  *
  * This particular sidebar implementation was inspired by Chris Coyier's
- * "Offcanvas Menu with CSS Target" article, and the checkbox variation from the
+ * "Offcanvas Menu with CSS Target" article, and the nputcheckbox variation from the
  * comments by a reader. It modifies both implementations to continue using the
  * checkbox (no change in URL means no polluted browser history), but this uses
  * `position` for the menu to avoid some potential content reflow issues.
@@ -149,7 +150,7 @@ h1, h2, h3, h4, h5, h6 {
   top: 0;
   bottom: 0;
   left: -14rem;
-  width: 20rem;
+  width: 15rem;
   visibility: hidden;
   overflow-y: auto;
   font-family: "Nunito Sans","Helvetica Neue", "PT Sans", Helvetica, Arial, sans-serif;
@@ -217,7 +218,7 @@ a.sidebar-nav-item:focus {
 .sidebar-toggle {
   position: absolute;
   top:  .8rem;
-  left: 1rem;
+  left: 2rem;
   display: flex;
   align-items: center;
   padding: .25rem .75rem;
@@ -232,18 +233,20 @@ a.sidebar-nav-item:focus {
   width: 32px;
   height: 32px;
   content: "";
+  color: #505050;
+  background-color: #fff;
   background: url("data:image/svg+xml,%3Csvg viewBox='0 0 16 16' fill='%23555' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' d='M2.5 11.5A.5.5 0 013 11h10a.5.5 0 010 1H3a.5.5 0 01-.5-.5zm0-4A.5.5 0 013 7h10a.5.5 0 010 1H3a.5.5 0 01-.5-.5zm0-4A.5.5 0 013 3h10a.5.5 0 010 1H3a.5.5 0 01-.5-.5z' clip-rule='evenodd'/%3E%3C/svg%3E") no-repeat;
 }
 
 .sidebar-toggle:active,
-#sidebar-checkbox:focus ~ .sidebar-toggle,
+#sidebar-checkbox:hover ~ .sidebar-toggle,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
   color: #fff;
-  background-color: #555;
+  background-color: #505050;
 }
 
 .sidebar-toggle:active:before,
-#sidebar-checkbox:focus ~ .sidebar-toggle::before,
+#sidebar-checkbox:hover ~ .sidebar-toggle::before,
 #sidebar-checkbox:checked ~ .sidebar-toggle::before {
   background: url("data:image/svg+xml,%3Csvg viewBox='0 0 16 16' fill='%23fff' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' d='M2.5 11.5A.5.5 0 013 11h10a.5.5 0 010 1H3a.5.5 0 01-.5-.5zm0-4A.5.5 0 013 7h10a.5.5 0 010 1H3a.5.5 0 01-.5-.5zm0-4A.5.5 0 013 3h10a.5.5 0 010 1H3a.5.5 0 01-.5-.5z' clip-rule='evenodd'/%3E%3C/svg%3E") no-repeat;
 }
@@ -291,8 +294,8 @@ a.sidebar-nav-item:focus {
   visibility: visible;
 }
 #sidebar-checkbox:checked ~ .sidebar,
-#sidebar-checkbox:checked ~ .wrap,
-#sidebar-checkbox:checked ~ .sidebar-toggle {
+#sidebar-checkbox:checked ~ .wrap {
+/* #sidebar-checkbox:checked ~ .sidebar-toggle { */
   -webkit-transform: translateX(14rem);
       -ms-transform: translateX(14rem);
           transform: translateX(14rem);
@@ -550,7 +553,9 @@ a.pagination-item:hover {
           transform: translateX(0);
 }
 .sidebar-overlay #sidebar-checkbox:checked ~ .sidebar-toggle {
-  box-shadow: 0 0 0 .25rem #fff;
+  color: #fff;
+  background-color: #505050;
+  /*box-shadow: 0 0 0 .25rem #fff;*/
 }
 .sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: .25rem 0 .5rem rgba(0,0,0,.1);
@@ -626,3 +631,47 @@ a.pagination-item:hover {
       width: 200px;
       margin: 0 auto;
 }
+
+#sidebar-id {
+}
+
+.imagelogo {
+  width: 27.5px;
+  height: 27.5px;
+  float: left;
+  margin: -0.1rem 0.2rem 0;
+}
+
+@media (max-width: 48em) {
+  .imagelogo {
+    display: none;
+    width: 0px;
+  }
+}
+
+.imagelogo-right {
+  display: none;
+  float: right;
+  width: 40px;
+  height: 35px;
+  margin-top: -0.25rem;
+  margin-right: 1rem;
+}
+
+@media (max-width: 48em) {
+  .imagelogo-right {
+    display: block;
+    margin-right: 2rem;
+  }
+}
+
+@media (max-width: 33em) {
+  .imagelogo-right {
+    display: block;
+    margin-right: 1.5rem;
+  }
+}
+
+@media (max-width: 33em) {
+  .centered-title {
+    padding-left: 3rem;

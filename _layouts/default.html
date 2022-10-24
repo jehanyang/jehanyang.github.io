@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="sidebar-overlay">
 
     {% include sidebar.html %}
 
@@ -11,23 +11,24 @@
          content to avoid any CSS collisions with our real content. -->
     <div class="wrap">
       <div class="masthead">
-        <div class="container" style="margin-left:11.5%">
+	<img class="imagelogo-right" src="{{ site.baseurl }}/images/favicon-310.png" alt="">
+	<div class="container" style="padding-left:0px; padding-right:0px;">
           <h3 class="masthead-title">
-	    <a href="{{ site.baseurl }}/" title="Home">
-	      {{ site.title }} <img class="imagelogo" src="{{ site.baseurl }}/images/favicon-310.png" alt="" style="">
-	      <!-- {{ site.title }} -->
+	    <a href="{{ site.baseurl }}/" class="centered-title" title="Home">
+	      <img class="imagelogo" src="{{ site.baseurl }}/images/favicon-310.png" alt="" style="">
+	      {{ site.title }}
 	    </a>
 	    <!-- <small>{{ site.tagline }}</small> -->
           </h3>
         </div>
       </div>
 
-      <div class="container content" style="margin-left: 15%;">
+      <div class="container content" style="">
         {{ content }}
       </div>
     </div>
 
-    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+    <label for="sidebar-checkbox" class="sidebar-toggle"  style="z-index:2; position:fixed; margin-left: -1rem;"></label>
 
     <script src='{{ site.baseurl }}/public/js/script.js'></script>
   </body>
