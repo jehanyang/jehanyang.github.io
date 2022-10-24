@@ -7,7 +7,8 @@ title: Home
 <h3 class="message" style="line-height: 1.5; font-weight: normal">
 🏠 On this homepage, I will present my recent news and my portfolio. For more content, like an <b>About Me</b>, click links on the sidebar to the left! 
 </h3>
-## Recent News
+<!--Feel free to check out my blog too. It will be mostly about graduate school and some content I think will be relevant for students studying engineering and computer science. 
+## Recent News -->
 <ul style="margin-bottom:0px">
 <li><em>August 2022</em>&mdash;I begin my PhD at CMU!</li>
 <li><em>June 2022</em>&mdash;I begin working full-time as a software intern at fast-food robotics startup, <a href="misorobotics.com">Miso Robotics</a>.</li>
