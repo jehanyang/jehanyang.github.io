@@ -433,3 +433,17 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+.rowimage {
+  height: 9rem;
+}
+@media (min-width: 38em) {
+  .rowimage {
+    height: 11.5rem;
+  }
+}
+@media (min-width: 56em) {
+  .rowimage {
+    height: 17.5rem;
+  }
+}
