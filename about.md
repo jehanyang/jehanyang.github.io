@@ -23,7 +23,7 @@ I first learned about engineering and robotics in college at UC Berkeley, where 
 
 Real Life Robotics Competition            | AI-Generated Illustration
 :-------------------------:|:-------------------------:
-<img src="/images/pieballpit.jpg" alt="PiE in real life" class="rowimage"/>  | <img src="/images/blueballpit1.jpg" alt="Stable Diffusion blue ball pit next to arena" class="rowimage" /> 
+<img src="/images/pieballpit.JPG" alt="PiE in real life" class="rowimage"/>  | <img src="/images/blueballpit1.jpg" alt="Stable Diffusion blue ball pit next to arena" class="rowimage" /> 
 
 Since my time in Pioneers in Engineering, I have completed five robotics internships at [Universal Creative](https://jobs.universalparks.com/universal-creative/), [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/), [Covariant](https://covariant.ai/), [Nuro](https://www.nuro.ai/), and [Miso Robotics](https://misorobotics.com/). Throughout all these internships, I have found that I appreciated working on the research aspects of robotics work the best, which led me to pursue a PhD at CMU. 
 
