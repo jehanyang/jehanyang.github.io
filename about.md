@@ -6,7 +6,7 @@ title: Hi, nice to meet you!
 	👋 Hi there, I'm <b>Jehan Yang</b>. Thank you for your interest! I am currently a PhD student working on neural control of robotics at CMU. My two advisors are <a href="https://zackory.com/">Zackory Erickson</a> in the Robotics Institute and <a href="https://engineering.cmu.edu/directory/bios/weber-douglas.html">Doug Weber</a> in Mechanical Engineering and the Neuroscience Institute. 
 </h3 >
 
-<img src="/images/jehanfull.jpg" alt="Jehan in a red CMU pullover" style="float: left; margin: 1rem; height: 18rem; margin-bottom: 0.1rem; margin-left:0.1rem"/>
+<img src="/images/jehanfull2-min.jpg" alt="Jehan in a red CMU pullover" style="float: left; margin: 1rem; height: 18rem; margin-bottom: 0.1rem; margin-left:0.1rem"/>
 
 My goal is to become a robotics researcher that advances the field by having robots safely and efficiently help humans. To achieve this goal, I have broad interests in controls, robot planning, learning, formal methods, human motion prediction, physical human robot interaction, shared autonomy, and neural interfacing. One day, I hope to see robots interacting seamlessly with humans, helping them in the form of vehicles, prosthetics, and mobile manipulators. 
 
