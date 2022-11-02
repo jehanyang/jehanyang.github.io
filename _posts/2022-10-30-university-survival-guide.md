@@ -15,7 +15,7 @@ The bulk of the classes I've taken are in mechanical engineering, electrical eng
 
 Still, this does not mean that professors and grad students can't improve the way they teach, and I would argue there are very common pitfalls in the ways that professors and graduate students teach. The following are some ways to help deal with these common issues:
 
-## Professors and Grad Students have Expert Amnesia
+## Pitfall 1: Professors and Grad Students have Expert Amnesia
 
 Expert amnesia is the concept that experts in any subject have difficulty remembering how they learned the subject for the first time, and especially how difficult it was to do so. This common pitfall means professors and grad students who are not careful will introduce ideas in a way that is not optimized for a beginner, but optimized for someone with a lot of experience in the field. This means that university educators tend to have a big blind spot in properly introducing ideas. These experts may also use field conventions that are common in their fields, such as variable names without a proper introduction to the notation that may help make it more intuitive for the student. 
 
@@ -26,13 +26,13 @@ When professors are aware of this pitfall, they will be careful about introducin
 
 would help make a lecture more clear for more students. It's common for students to not hear an introduction the first time since it really is hard to focus well for an hour or more. I have noticed that some professors get so used to reintroducing ideas, that they start doing so in conversation.
 
-## Professors Tend to Teach Fast
+## Pitfall 2: Professors Tend to Teach Fast
 
 This is a consequence of expert amnesia, and the professor's interests in the more advanced/non-trivial parts of the lecture. The parts professors are more interested in teaching tends to be the parts that are non-trivial to them, so classes can tend to be more difficult as a result. Professors also like to fit more material into their lectures. They seem to want you to know as much as they do, although they have several years more experience. Feeling that a class's pace is fast is a common cause of imposter syndrome, and you really shouldn't feel bad since it's often an error by the ones who designed the curriculum or those who didn't define the prerequisites well. 
 
 **Solution:** Same as above. You'll have to be introduced to the idea well, and you can often do this well through Wikipedia, or a good Youtube video. It also doesn't hurt to tell the professor that they are going a bit too fast. This can be done naturally by asking questions during class, although you shouldn't ask too many as too bring the lecture to a standstill. 
 
-## Mistakes on the Whiteboard or Unclear Handwriting
+## Pitfall 3: Mistakes on the Whiteboard or Unclear Handwriting
 
 Anyone will make mistakes when teaching, especially when writing in real time. These inevitable typos are something to be aware of. They can be really confusing to a student. 
 
@@ -41,7 +41,7 @@ In a related matter, many educators that teach math at the university level have
 **Solution:** The solution here is to look up a different source as soon as you can about something you found ambiguous, or see as a mistake. It will also often help everyone if you can point out a typo in real-time in class (you'll also be paying more attention, which is a time-effective habit in lecture). If you are not able to do so in real time, you can ask the professor after class too. Asking for this clarification will inevitably be helpful for your understanding while you have the professor's time. 
 
 
-## Vague Problem Sets
+## Pitfall 4: Vague Problem Sets
 
 Oftentimes, problem sets are vague in the way that they are written. This occurs because the professor is used to their field to the degree that they know what the standard assumptions are when they write questions. From my experience, this is a common problem in some electrical engineering classes, although it certainly occurs in other classes. 
 
@@ -49,7 +49,7 @@ You don't want your grade to be based off of chance, so you should try to resolv
 
 **Solution:** Ask the TA or professor exactly what they mean in the question. Use office hours, Piazza, or email to do so. This can often mean starting your problem sets early enough to know what looks ambiguous, since figuring out the ambiguity from a TA or professor may take more than a day and office hour times can be limited. You may also ask your peers how they interpret the question, since some of your peers may have more experience in the field and are more likely to make the correct assumptions. 
 
-## Assumption of Student Background
+## Pitfall 5: Assumption of Student Background
 
 Oftentimes, professors assume the background of most of their students are much stronger than they are, even in introductory classes. However, students in any class always come from all sorts of backgrounds. Professors tend to be some of the stronger students when they were at university, so they may be biased toward tailoring the way to teach to stronger students.
 
