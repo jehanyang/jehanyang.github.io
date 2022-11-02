@@ -4,7 +4,7 @@ title: Surviving Classes at UC Berkeley and Elsewhere
 ---
 ## Dealing with Common Pitfalls of University Education
 
-Inevitably, to earn a university degree, you'll have to take university classes. Some university classes can be incredibly tough---the material can be conceptually arcane, the labwork so time-intensive that you spend several weekends and evenings working, and the exams difficult and extensive enough to throw the whole class in a loop. 
+Inevitably, to earn a university degree, you'll have to take university classes. Some university classes can be incredibly tough---the material can be conceptually arcane, the labwork so time-intensive that you spend several weekends and evenings working, and the exams difficult and extensive enough to throw the whole class for a loop. 
 
 However, there are also some common pitfalls with the way university classes are *taught* that come from systematic roots at R1 research institutions. R1s are those universities classified as having "Very High Research Output", and that also tends to be their specialization and focus. Therefore (to be more blunt) many classes become a sidenote for professors and graduate students to teach, whereas their research is their main locus of focus. 
 
@@ -14,24 +14,24 @@ Still, this does not mean that professors and grad students can't improve the wa
 
 ## Professors and Grad Students have Expert Amnesia
 
-Expert amnesia is the concept that experts in any subject have difficulty remembering how they learned the subject for the first time, and especially how difficult it was. This common pitfall makes it so professors and grad students who are not careful will introduce ideas in a way that is not optimized for a beginner, but optimized for someone with quite a bit of experience in the field. This means that university educators tend to have a big blind spot in properly introducing ideas. These experts may also use field conventions that are common in their fields, such as variable names without a proper introduction to the notation that may help make it more intuitive for the student. 
+Expert amnesia is the concept that experts in any subject have difficulty remembering how they learned the subject for the first time, and especially how difficult it was to do so. This common pitfall means professors and grad students who are not careful will introduce ideas in a way that is not optimized for a beginner, but optimized for someone with a lot of experience in the field. This means that university educators tend to have a big blind spot in properly introducing ideas. These experts may also use field conventions that are common in their fields, such as variable names without a proper introduction to the notation that may help make it more intuitive for the student. 
 
 **Solution:** As soon as you can for a new concept, read the Wikipedia page or other basic external source. It will most often help to read the definition carefully, remember it, and see some examples. 
 
-When professors are aware of this pitfall, they will be careful about introducing a concept. They will make sure the definition is clearly stated, and illustrated by good examples. It also helps when they take their time with these introductions. You'll often also see professors reintroduce concepts and even notation, at least a couple of times, especially throughout multiple lectures. Something like:
+When professors are aware of this pitfall, they will be careful about introducing a concept. They will make sure the definition is clearly stated. They will also ensure the new concept is illustrated by good examples, especially when there are clarifying differences between each case. It also helps when they take their time with these introductions. You'll often see professors thoughtfully reintroduce concepts and even notation, at least a couple of times, especially throughout multiple lectures. Something like:
 > As a reminder, F<sub>x</sub> means df/dx in optimization/differential equations as a shorthand,
 
 would help make a lecture more clear for more students. It's common for students to not hear an introduction the first time since it really is hard to focus well for an hour or more. I have noticed that some professors get so used to reintroducing ideas, that they start doing so in conversation.
 
 ## Professors Tend to Teach Fast
 
-This is a consequence of expert amnesia, and the professor's interests in the more advanced/non-trivial parts of the lecture. The parts professors are more interested in teaching tends to be the parts that are non-trivial to them, so classes can tend to be more difficult as a result. Professors also like to fit more material into their lectures, since they want you to know as much as they do. This is a common cause of imposter syndrome, and you really shouldn't feel bad if you think the class is moving too fast. 
+This is a consequence of expert amnesia, and the professor's interests in the more advanced/non-trivial parts of the lecture. The parts professors are more interested in teaching tends to be the parts that are non-trivial to them, so classes can tend to be more difficult as a result. Professors also like to fit more material into their lectures. They seem to want you to know as much as they do, although they have several years more experience. Feeling that a class's pace is fast is a common cause of imposter syndrome, and you really shouldn't feel bad since it's often an error by the ones who designed the curriculum or those who didn't define the prerequisites well. 
 
 **Solution:** Same as above. You'll have to be introduced to the idea well, and you can often do this well through Wikipedia, or a good Youtube video. It also doesn't hurt to tell the professor that they are going a bit too fast. This can be done naturally by asking questions during class, although you shouldn't ask too many as too bring the lecture to a standstill. 
 
 ## Mistakes on the Whiteboard or Unclear Handwriting
 
-Anyone will make mistakes when teaching, especially when writing in real time. These inevitable typos are something to be aware of, since they can be really confusing to a student. 
+Anyone will make mistakes when teaching, especially when writing in real time. These inevitable typos are something to be aware of. They can be really confusing to a student. 
 
 In a related matter, many educators that teach math at the university level have pretty unclear handwriting that can make it easier to make mistakes. It likely comes from writing quickly as a habit in order to solve their problems very quickly. Conversely, from my experience, a professor with good handwriting is a breath of fresh air since there is less cognitive load in deciphering the handwriting.
 
@@ -40,7 +40,7 @@ In a related matter, many educators that teach math at the university level have
 
 ## Vague Problem Sets
 
-Oftentimes, problem sets are vague in the way that they are written. This occurs because the professor is used to their field to the degree that they know what the standard assumptions are when they write questions. From my experience, this is a common problem in some electrical engineering classes, although it certainly occurs in other classes also. 
+Oftentimes, problem sets are vague in the way that they are written. This occurs because the professor is used to their field to the degree that they know what the standard assumptions are when they write questions. From my experience, this is a common problem in some electrical engineering classes, although it certainly occurs in other classes. 
 
 You don't want your grade to be based off of chance, so you should try to resolve such ambiguities. 
 
