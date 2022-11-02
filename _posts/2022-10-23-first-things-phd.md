@@ -3,6 +3,8 @@ layout: post
 title: First Things To Do As A PhD Student
 ---
 
+![Picture of Tepper School at CMU](/images/tepper-min.jpg)
+
 I recently moved from Pasadena in California to Pittsburgh in Pennsylvania. As you can imagine, it was a big move! 🚙 I drove across [several thousand miles](https://www.google.com/maps/dir/pasadena+ca/houston+tx/New+Orleans,+LA/Nashville,+TN/Pittsburgh,+PA/@34.6037775,-108.0709812,5z/data=!3m1!4b1!4m32!4m31!1m5!1m1!1s0x80c2c2dc38330b51:0x52b41161ad18f4a!2m2!1d-118.1445155!2d34.1477849!1m5!1m1!1s0x8640b8b4488d8501:0xca0d02def365053b!2m2!1d-95.3698028!2d29.7604267!1m5!1m1!1s0x8620a454b2118265:0xdb065be85e22d3b4!2m2!1d-90.0715323!2d29.9510658!1m5!1m1!1s0x8864ec3213eb903d:0x7d3fb9d0a1e9daa0!2m2!1d-86.7816016!2d36.1626638!1m5!1m1!1s0x8834f16f48068503:0x8df915a15aa21b34!2m2!1d-79.9958864!2d40.4406248!3e0) of deserts and forests to arrive in the old, mid-sized city surrounded by mountains and rivers--the renowned city of steel on the east coast. 
 
 As I settled in to my move, I realized there were a number of things that I could do to start again more strongly as a student. After all, everyone starts as a new kind of student over and over again, so everyone gets some practice. But as a PhD student who recently started as an MS student, I had a good idea of what I could do better starting as a graduate student again. And as any good student should do, I decided to take notes of those things I thought most important. It's not every year you can start as a PhD student starting in these challenging, [post-global-pandemic](https://en.wikipedia.org/wiki/COVID-19) times. Maybe it's a history worth recording?

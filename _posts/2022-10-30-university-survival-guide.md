@@ -2,6 +2,9 @@
 layout: post
 title: Surviving Classes at UC Berkeley and Elsewhere
 ---
+
+![Birds-eye View of Cal Stadium](/images/CalStadium-min.jpg)
+
 ## Dealing with Common Pitfalls of University Education
 
 Inevitably, to earn a university degree, you'll have to take university classes. Some university classes can be incredibly tough---the material can be conceptually arcane, the labwork so time-intensive that you spend several weekends and evenings working, and the exams difficult and extensive enough to throw the whole class for a loop. 
