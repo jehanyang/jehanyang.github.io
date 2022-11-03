@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Surviving Classes at UC Berkeley and Elsewhere
-post_description: University classes can be incredibly difficult. At R1 universities, these are some of the quirks of the education system that I noticed, and the best ways to address them. 
+post_description: University classes can be incredibly difficult. At R1 universities, these are some of the pitfalls in the way classes I taught that I noticed, and the best ways to address them. 
 
 ---
 
