@@ -1,6 +1,8 @@
 ---
 layout: post
 title: First Things To Do As A PhD Student
+post_description: What should you be doing your first week as a PhD student? Your first month? I put some thought into these questions as I experienced life as a beginning PhD student firsthand! 
+
 ---
 
 ![Picture of Tepper School at CMU](/images/tepper-min.jpg)

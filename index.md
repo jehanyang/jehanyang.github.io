@@ -5,7 +5,7 @@ title: Home
 <h1 id="home" style="margin-block-start:0">Home</h1>
 
 <h3 class="message" style="line-height: 1.5; font-weight: normal">
-🏠 On this homepage, I will present my recent news and my portfolio. For more content, like an <b>About Me</b>, click links on the sidebar to the left! 
+🏠 On this homepage, I will present my recent news and my portfolio. For more content, like my blog about university life, click the <b>≡</b> on the top left!
 </h3>
 <!--Feel free to check out my blog too. It will be mostly about graduate school and some content I think will be relevant for students studying engineering and computer science. 
 ## Recent News -->
