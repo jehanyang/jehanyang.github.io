@@ -54,4 +54,10 @@ The biggest tip I can give about undergraduates in the lab is that they should c
 
 Graduate students may seem intimidating, however, many of them are there to help you. Sometimes, graduate students can be intense and busy, but in a good lab environment, the graduate students should respect their undergraduate colleagues a lot and be friendly to them. It's a good idea before you join a lab that you figure out how the social life is in the lab and whether you feel able to connect with a number of graduate students---they are very valuable resources to you since they have solved some very similar problems to the ones you are figuring out. 
 
+## New Standards
 
+For everyone coming to a new university, you may be placed somewhere else than what you were used to on the grading curve. More likely than not if you are going to a "target" or "reach" school, you will be placed on a lower percentile than you were used to in high school. For a number of people, this is devestating, since the grades you are getting now are lower. 
+
+I would recommend being aware of the way the university admissions system works, which means that many elite schools scrape off a bit of the top percentile of students from high schools all around the world, and that although it might be hard to recognize, even if you are not making grades that are as good as you were used to, you are still a very strong student. Many times, students that end up still being on the top of the curve come from some of the most elite high schools in the US or have quite privileged backgrounds. 
+
+Although it's not quite fair that you are now being compared to these students, especially if you come from a lower-income background, this is unfortunately the way the university system is arranged. It is important to be able to make connections with everyone, including these very strong students, and to do your best to adjust to the higher standards that classes will hold you to. See my blog post ["Surviving at UC Berkeley and Elsewhere"](https://jehanyang.github.io/2022/10/30/university-survival-guide/) for some tips on how to become a stronger student in your university. 
