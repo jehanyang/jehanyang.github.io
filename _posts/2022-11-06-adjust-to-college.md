@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Adjust to Colleges, Small and Big
+title: How to Adjust to College Life
 post_description: College social life is hard to adjust to. Here I discuss school size, clubs, and dorm life, and how that relates to adjusting to social life in college. 
 
 ---
