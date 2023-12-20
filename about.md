@@ -21,9 +21,7 @@ I was born in Taiwan and moved to the United States when I was six years old. Fo
 
 I first learned about engineering and robotics in college at UC Berkeley, where I worked on making possible a robotics competition for underserved high schools in the Oakland/East Bay area through [Pioneers in Engineering](https://pierobotics.org). At first, a little bit understaffed, Pioneers in Engineering handed me the reins to design a modular robot chassis. Not long after, I put together the electronics and code to drive and automate my humble robot chassis. Within my first year, my designs were used by hundreds of local high school students to compete in a game where participants score points by driving their robots in a home-made arena. The robots used miniature metal detectors, modified tennis balls, and a full-sized ball pit. After that initial impression working with enthusiastic roboticists, I was hooked on robotics.
 
-Real Life Robotics Competition            | AI-Generated Illustration
-:-------------------------:|:-------------------------:
-<img src="/images/pieballpit.JPG" alt="PiE in real life" class="rowimage"/>  | <img src="/images/blueballpit1.jpg" alt="Stable Diffusion blue ball pit next to arena" class="rowimage" /> 
+<img src="/images/pieballpit.JPG" alt="PiE in real life" class="rowimage"/> 
 
 Since my time in Pioneers in Engineering, I have completed five robotics internships at [Universal Creative](https://jobs.universalparks.com/universal-creative/), [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/), [Covariant](https://covariant.ai/), [Nuro](https://www.nuro.ai/), and [Miso Robotics](https://misorobotics.com/). Throughout all these internships, I have found that I appreciated working on the research aspects of robotics work the best, which led me to pursue a PhD at CMU. 
 
