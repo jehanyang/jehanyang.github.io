@@ -14,7 +14,7 @@ Due to a close friend and multiple family members, including my dad, having para
 I received my BS at UC Berkeley in Mechanical Engineering and my MS at Caltech in Electrical Engineering. At Caltech, I worked in the [AMBER Lab](http://www.bipedalrobotics.com/) with Professor [Aaron Ames](http://www.bipedalrobotics.com/people.html). At UC Berkeley, I worked in the [Biomimetic Millisystems Lab](https://people.eecs.berkeley.edu/~ronf/Biomimetics.html) with Professor [Ronald S. Fearing](https://people.eecs.berkeley.edu/~ronf/) and in the [Gu Research Group](https://gu.berkeley.edu) with Professor [Grace X. Gu](https://me.berkeley.edu/people/grace-x-gu/). In these labs, I worked on biomimetic robots, soft manipulators, and knee prosthetics.
 
 If you are interested in my publications, I have a [Google
-Scholar](https://scholar.google.com/citations?user=SYQvCw4AAAAJ&hl=en) that is kept up to date. 
+Scholar](https://scholar.google.com/citations?user=SYQvCw4AAAAJ&hl=en) that is generally kept up to date. 
 
 ## More About Me
 
