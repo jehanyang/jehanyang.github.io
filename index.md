@@ -10,12 +10,12 @@ title: Home
 <ul style="margin-bottom:0px">
 <li><em>December 2024</em>&mdash;I will present <a href="emgbench.github.io">our work</a> at NeurIPS 2024 involving the largest-scale open-source EMG gesture recognition work for generalization and adaptation! This technology will be transformative for improving the lives of people with amputations. </li>
 <li><em>March 2024</em>&mdash;<a href="https://dl.acm.org/doi/10.1145/3610977.3634964">Our work</a> involving the control of a mobile manipulator robot to perform various home tasks in the home of a person with quadriplegia won Best Paper at HRI 2024! See link. </li>
+</ul>
 <details style="padding-top:10px;"><summary style="padding-left: 20px; padding-bottom: 0px; margin-bottom:0px; font-size:20px"><strong>More</strong></summary><p style="padding-left: 20px" >
 <ul style="margin-top:0px; padding-top:0px">
 <li><em>August 2022</em>&mdash;I begin my PhD at CMU!</li>
 <li><em>June 2022</em>&mdash;I begin working full-time as a software intern at fast-food robotics startup, <a href="misorobotics.com">Miso Robotics</a>.</li>
 <li><em>April 2022</em>&mdash;I committed to my PhD at <a href="https://cmu.edu">Carnegie Mellon University</a> with advisors Zackory Erickson and Doug Weber! I received a 2-year fully-funded departmental fellowship. </li>
-</ul>
 <li><em>June 2020</em>&mdash;I start my internship with the self-driving car startup, <a href="nuro.ai">Nuro</a>.</li>
 <li><em>May 2020</em>&mdash;I committed to starting my MS in Electrical Engineering at <a href="ee.caltech.edu">Caltech</a> with a 2-year fully-funded departmental fellowship.</li>
 <li><em>April 2020</em>&mdash;I received the <a href="nsfgrfp.org">NSF GRFP</a>! I am indescribably grateful for my mentors&#39; and friends&#39;     help.</li>
