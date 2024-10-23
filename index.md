@@ -4,7 +4,7 @@ title: Home
 ---
 <h1 id="home" style="margin-block-start:0">Home</h1>
 
-<h3 class="message" style="line-height: 1.5; font-weight: normal">
+<h3 class="message" style="line-height: 1.5; font-weight: normal"> </h3>
 <!--Feel free to check out my blog too. It will be mostly about graduate school and some content I think will be relevant for students studying engineering and computer science. 
 ## Recent News -->
 <ul style="margin-bottom:0px">
