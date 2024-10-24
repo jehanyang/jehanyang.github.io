@@ -8,7 +8,7 @@ title: Home
 <!--Feel free to check out my blog too. It will be mostly about graduate school and some content I think will be relevant for students studying engineering and computer science. 
 ## Recent News -->
 <ul style="margin-bottom:0px">
-<li><em>December 2024</em>&mdash;I will present <a href="https://www.emgbench.github.io">our work</a> at NeurIPS 2024 involving the largest-scale open-source EMG gesture recognition work for generalization and adaptation! This technology is transformative for improving the lives of people with amputations and paralysis. </li>
+<li><em>December 2024</em>&mdash;I will present <a href="https://emgbench.github.io">our work</a> at NeurIPS 2024 involving the largest-scale open-source EMG gesture recognition work for generalization and adaptation! This technology is transformative for improving the lives of people with amputations and paralysis. </li>
 <li><em>March 2024</em>&mdash;<a href="https://dl.acm.org/doi/10.1145/3610977.3634964">Our work</a> involving the control of a mobile manipulator robot to perform various home tasks in the home of a person with quadriplegia won Best Paper at HRI 2024! See link. </li>
 </ul>
 <details style="padding-top:10px;"><summary style="padding-left: 20px; padding-bottom: 0px; margin-bottom:0px; font-size:20px"><strong>More</strong></summary><p style="padding-left: 20px" >
