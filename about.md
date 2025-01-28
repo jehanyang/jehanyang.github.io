@@ -7,9 +7,9 @@ title: Hi, nice to meet you!
 </h3 >
 
 <img src="/images/jehanfull2-min.jpg" alt="Jehan in a red CMU pullover" style="float: left; margin: 1rem; height: 18rem; margin-bottom: 0.1rem; margin-left:0.1rem"/>
- Generally, my goal is to become a robotics researcher that advances the field by having robots safely and efficiently help humans. To achieve this goal, I have interests in physical human robot interaction, control theory, and machine learning. One day, I hope to see robots interacting seamlessly with humans. 
+My goal is to become a robotics researcher that advances the field by having robots safely and efficiently help humans. To achieve this goal, I have interests in physical human robot interaction, control theory, and machine learning. One day, I hope to see robots interacting seamlessly with humans. 
 
-Due to a close friend and multiple family members, including my dad, having paralysis of the upper and lower body, in my research I'm particularly interested in robotics that can help people in this population.
+Due to a close friend and family members having paralysis of the upper and lower body, in my research I'm particularly interested in robotics that can help people in this population.
 
 I received my BS at UC Berkeley in Mechanical Engineering and my MS at Caltech in Electrical Engineering. At Caltech, I worked in the [AMBER Lab](http://www.bipedalrobotics.com/) with Professor [Aaron Ames](http://www.bipedalrobotics.com/people.html). At UC Berkeley, I worked in the [Biomimetic Millisystems Lab](https://people.eecs.berkeley.edu/~ronf/Biomimetics.html) with Professor [Ronald S. Fearing](https://people.eecs.berkeley.edu/~ronf/) and in the [Gu Research Group](https://gu.berkeley.edu) with Professor [Grace X. Gu](https://me.berkeley.edu/people/grace-x-gu/). In these labs, I worked on biomimetic robots, soft manipulators, and knee prosthetics.
 
@@ -26,7 +26,6 @@ Since my time in Pioneers in Engineering, I have completed robotics internships 
 
 My interests outside of engineering are volunteering as an EMT, improving my Mandarin, and helping URM in higher education through [Pioneers in Engineering](https://pierobotics.org). I'd really like to get more into boxing and making music, so definitely feel free to reach out and talk if you have similar interests and/or you're in the area!
 
-* Presented here is my [Curriculum Vitae (Aug 2022)](../documents/Jehan_Yang_PhD_CV.pdf)
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
 * This website uses the [Lanyon](https://lanyon.getpoole.com/) template with [Jekyll](https://jekyllrb.com/) static webpage generator
 
