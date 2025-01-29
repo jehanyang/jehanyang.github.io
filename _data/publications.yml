@@ -1,0 +1,167 @@
+- title: "High-density electromyography for effective gesture-based control of physically assistive mobile manipulators"
+  abstract: "High-density electromyography (HDEMG) can detect myoelectric activity as control inputs to a variety of electronically-controlled devices. Furthermore, HDEMG sensors may be built into a variety of clothing, allowing for a non-intrusive myoelectric interface that is integrated into a user’s routine. In our work, we introduce an easily-producible HDEMG device that interfaces with the control of a mobile manipulator to perform a range of household and physically assistive tasks. Mobile manipulators can operate throughout the home and are applicable for a spectrum of assistive and daily tasks in the home. We evaluate the use of real-time myoelectric gesture recognition using our device to enable precise control over the intricate mobility and manipulation functionalities of an 8 degree-of-freedom mobile manipulator. Our evaluation, involving 13 participants engaging in challenging self-care and household activities, demonstrates the potential of our wearable HDEMG system to control a mobile manipulator in the home."
+  authors: Jehan Yang, Kent Shibata, Doug Weber, Zackory Erickson
+  bibtex: |
+    @article{yang2023high,
+      title={High-density Electromyography for Effective Gesture-based Control of Physically Assistive Mobile Manipulators},
+      author={Yang, Jehan and Shibata, Kent and Weber, Douglas and Erickson, Zackory},
+      journal={arXiv preprint arXiv:2312.07745},
+      year={2023}
+    }
+  image: ../images/hdemg.gif
+  pdf: https://www.nature.com/articles/s44182-025-00018-3.pdf
+  id: yang2023high
+  venue: Nature Partner Journals in Robotics (npj Robotics)
+  year: 2025
+  type: journal
+
+- title: "LAMS: LLM-Driven Automatic Mode Switching for Assistive Teleoperation"
+  abstract: "Teleoperating high degrees-of-freedom (DoF) robotic manipulators via low-DoF controllers like joysticks often requires frequent switching between control modes, where each mode maps controller movements to specific robot actions. Manually performing this frequent switching can make teleoperation cumbersome and inefficient. On the other hand, existing automatic mode-switching solutions, such as heuristic-based or learning-based methods, are often task-specific and lack generalizability. In this paper, we introduce LLM-Driven Automatic Mode Switching (LAMS), a novel approach that leverages Large Language Models (LLMs) to automatically switch control modes based on task context. Unlike existing methods, LAMS requires no prior task demonstrations and incrementally improves by integrating user-generated mode-switching examples. We validate LAMS through an ablation study and a user study with 10 participants on complex, long-horizon tasks, demonstrating that LAMS effectively reduces manual mode switches, is preferred over alternative methods, and improves performance over time. The project website with supplementary materials is at https://lams-assistance.github.io."
+  authors: Yiran Tao*, Jehan Yang*, Dan Ding, Zackory Erickson
+  bibtex: |
+    @inproceedings{tao2025lams,
+      title={LAMS: LLM-Driven Automatic Mode Switching for Assistive Teleoperation}, 
+      author={Yiran Tao and Jehan Yang and Dan Ding and Zackory Erickson},
+      year={2025},
+      booktitle={ACM/IEEE International Conference on Human-Robot Interaction (HRI)}
+    }
+  image: ../images/lams.png
+  website: https://lams-assistance.github.io
+  pdf: https://arxiv.org/abs/2501.08558
+  id: tao2025lams
+  venue: ACM/IEEE International Conference on Human-Robot Interaction (HRI)
+  year: 2025
+  type: conference
+
+- title: "EMGBench: Benchmarking Out-of-Distribution Generalization and Adaptation for Electromyography"
+  abstract: "This paper introduces the first generalization and adaptation benchmark using machine learning for evaluating out-of-distribution performance of electromyography (EMG) classification algorithms. The ability of an EMG classifier to handle inputs drawn from a different distribution than the training distribution is critical for real-world deployment as a control interface. By predicting the user’s intended gesture using EMG signals, we can create a wearable solution to control assistive technologies, such as computers, prosthetics, and mobile manipulator robots. This new out-of-distribution benchmark consists of two major tasks that have utility for building robust and adaptable control interfaces: 1) intersubject classification, and 2) adaptation using train-test splits for time-series. This benchmark spans nine datasets, the largest collection of EMG datasets in a benchmark. Among these, a new dataset is introduced, featuring a novel, easy-to-wear high-density EMG wearable for data collection. The lack of open-source benchmarks has made comparing accuracy results between papers challenging for the EMG research community. This new benchmark provides researchers with a valuable resource for analyzing practical measures of out-of-distribution performance for EMG datasets. Our code and data from our new dataset can be found at emgbench.github.io"
+  authors: Jehan Yang, Maxwell Soh, Vivianna Lieu, Douglas J Weber, Zackory Erickson
+  bibtex: |
+    @misc{yang2024emgbenchbenchmarkingoutofdistributiongeneralization,
+      title={EMGBench: Benchmarking Out-of-Distribution Generalization and Adaptation for Electromyography}, 
+      author={Jehan Yang and Maxwell Soh and Vivianna Lieu and Douglas J Weber and Zackory Erickson},
+      year={2024},
+      eprint={2410.23625},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2410.23625}, 
+    }
+  website: https://emgbench.github.io
+  image: ../images/emgbench.png
+  pdf: https://arxiv.org/abs/2410.23625
+  id: yang2024emgbenchbenchmarkingoutofdistributiongeneralization
+  venue: Advances in Neural Information Processing Systems (NeurIPS)
+  year: 2024
+  type: conference
+
+- title: "Independence in the Home: A Wearable Interface for a Person with Quadriplegia to Teleoperate a Mobile Manipulator"
+  authors: Akhil Padmanabha, Janavi Gupta, Chen Chen, Jehan Yang, Vy Nguyen, Douglas J. Weber, Carmel Majidi, and Zackory Erickson
+  year: 2024
+  type: conference
+  venue: ACM/IEEE International Conference on Human-Robot Interaction (HRI)
+  image: ../images/padmanabha2024independence.gif
+  id: padmanabha2024independence
+  website: https://sites.google.com/view/hat2-teleop/
+  code: 
+  bibtex: |
+      @inproceedings{padmanabha2024independence,
+        title={Independence in the Home: A Wearable Interface for a Person with Quadriplegia to Teleoperate a Mobile Manipulator},
+        author={Padmanabha, Akhil and Gupta, Janavi and Chen, Chen and Yang, Jehan and Nguyen, Vy and Weber, Douglas and Majidi, Carmel and Erickson, Zackory},
+        booktitle={ACM/IEEE International Conference on Human-Robot Interaction (HRI)},
+        year={2024}
+      }
+  abstract: "Teleoperation of mobile manipulators within a home environment can significantly enhance the independence of individuals with severe motor impairments, allowing them to regain the ability to perform self-care and household tasks. There is a critical need for novel teleoperation interfaces to offer effective alternatives for individuals with impairments who may encounter challenges in using existing interfaces due to physical limitations. In this work, we iterate on one such interface, HAT (Head-Worn Assistive Teleoperation), an inertial-based wearable integrated into any head-worn garment. We evaluate HAT through a 7-day in-home study with Henry Evans, a non-speaking individual with quadriplegia who has participated extensively in assistive robotics studies. We additionally evaluate HAT with a proposed shared control method for mobile manipulators termed Driver Assistance and demonstrate how the interface generalizes to other physical devices and contexts. Our results show that HAT is a strong teleoperation interface across key metrics including efficiency, errors, learning curve, and workload."
+  video: https://www.youtube.com/watch?v=XuQKCFJ3-V8
+  pdf: https://arxiv.org/pdf/2312.15071.pdf
+  news: https://www.cs.cmu.edu/news/2024/in-home-hat-testing
+  news2: https://www.post-gazette.com/news/health/2024/04/19/cmu-students-head-worn-assisted-teleoperation/stories/202404210019
+  awards: (Best Paper Award in Systems)
+
+- title: "Powered Prosthesis Locomotion on Varying Terrains: Model-Dependent Control With Real-Time Force Sensing"
+  authors: "Rachel Gehlhar, Jehan Yang, Aaron D. Ames"
+  year: 2022
+  venue: "IEEE Robotics and Automation Letters"
+  volume: 7
+  issue: 2
+  pages: "5151-5158"
+  publisher: "IEEE"
+  abstract: "Lower-limb prosthesis wearers are more prone to falling than non-amputees. Powered prostheses can reduce this instability of passive prostheses. While shown to be more stable in practice, powered prostheses generally use model-independent control methods that lack formal guarantees of stability and rely on heuristic tuning. Recent work overcame one of the limitations of model-based prosthesis control by developing a class of provably stable prosthesis controllers that only require the human interaction forces with the prosthesis, yet these controllers have not been realized with sensing of these forces in the control loop. Our work realizes the first model-dependent prosthesis knee controller that uses in-the-loop on-board real-time force sensing at the interface between the human and prosthesis and at the ground. The result is an optimization-based control methodology that formally guarantees stability while ..."
+  pdf: "http://ames.caltech.edu/gehlhar2022powered.pdf"
+  image: "../images/gehlhar2022powered.png"
+  citations: 12
+  id: "gehlhar2022prosthesis"
+  type: journal
+  bibtex: |
+      @article{gehlhar2022powered,
+      title={Powered prosthesis locomotion on varying terrains: Model-dependent control with real-time force sensing},
+      author={Gehlhar, Rachel and Yang, Je-han and Ames, Aaron D},
+      journal={IEEE Robotics and Automation Letters},
+      volume={7},
+      number={2},
+      pages={5151--5158},
+      year={2022},
+      publisher={IEEE}
+      }
+
+
+- title: "Computational and experimental design exploration of 3D-printed soft pneumatic actuators"
+  authors: "Kahraman G. Demir, Zhizhou Zhang, Jehan Yang, Grace X. Gu"
+  year: 2020
+  venue: "Advanced Intelligent Systems"
+  volume: 2
+  issue: 7
+  pages: "2000013"
+  image: "../images/demir2020softactuators.jpg"
+  bibtex: |
+      @article{demir2020computational,
+      title={Computational and experimental design exploration of 3d-printed soft pneumatic actuators},
+      author={Demir, Kahraman G and Zhang, Zhizhou and Yang, Jehan and Gu, Grace X},
+      journal={Advanced Intelligent Systems},
+      volume={2},
+      number={7},
+      pages={2000013},
+      year={2020},
+      publisher={Wiley Online Library}
+      }
+  abstract: "Soft robotics are known for their unique advantages over conventional rigid robotics, which include safer human–machine interaction, delicate handling of fragile items, and greater durability. Soft robotic actuators are essential components in soft robots as they produce the organic motions that rigid robotic actuators have difficulty in mimicking. Pneumatic actuators (PAs) are a type of soft robotic actuator that utilizes pneumatic pressure for actuation and are commonly used; however, the relationship between their design and actuation performance is not well understood. Herein, a cubic kernelized support vector regression (SVR) model based on finite element analysis is used to explore the design space of bending PAs with respect to their bending angles through the investigation of the dependencies between different design parameters. The model obtained from the SVR is then tested by experimentally comparing ..."
+  pdf: "https://onlinelibrary.wiley.com/doi/pdf/10.1002/aisy.202000013"
+  citations: 25
+  id: "demir2020softactuators"
+  type: journal
+
+- title: "Student Design Projects to Improve Spatial Visualization Ability"
+  authors: Sarah Mcmains, ... , Jehan Yang et al.
+  year: 2020
+  type: conference
+  venue: 73rd Engineering Design Graphics Division Midyear Conference
+  image: ../images/studentdesign.png
+  id: mcmainsstudent
+  code: 
+  bibtex: |
+      @article{mcmainsstudent,
+      title={Student Design Projects to Improve Spatial Visualization Ability},
+      author={McMains, Sara and Shonkwiler, Sara and Ansell, Mark and Bronars, Toni and Goldberg, Sarah and Hua, Sabrina and Lansigan, Dana and Liang, Pearl and Lim, Scott and Lin, Charles and others}
+      }
+  abstract: In this digest, we describe student design projects for which interactive demonstrations will be provided during the Media Showcase event. We present examples of projects designed to help future students improve their performance in an introductory engineering graphics and visualization class. Projects include "X-treme Blocks," designed for students who struggle with visualization from coded plans, a set of 3D models and a matching isolation box to help students visualize 2D projections from 3D objects, and the game "Ortho-Slap," which helps student practice mental rotation skills for interpreting orthographics multi-view drawings in a fast-paced, fun environment.
+  pdf: https://edgd.asee.org/wp-content/uploads/sites/22/2020/06/3_McMains.pdf
+
+- title: "Self-engaging spined gripper with dynamic penetration and release for steep jumps"
+  authors: "Jessica S. Lee*, Mark Plecnik*, Jehan Yang, Ronald S. Fearing"
+  year: 2018
+  venue: "2018 IEEE International Conference on Robotics and Automation (ICRA)"
+  pages: "6082-6089"
+  publisher: "IEEE"
+  abstract: "Due to high impact forces and low duty cycles, monopedal jumping robots are particularly susceptible to failure from a slipping foot. Spines provide a solution to reduce slip, but there has been little research on how to effectively engage them into a surface with a dynamic jumping robot. Previous robots utilizing spines operate in different regimes of surface approach speed and cycle time. For a penetrable substrate, spines must be directed into the surface at suitable holding angles, then extracted before the foot leaves the ground. We accomplished this by designing a gripper mechanism for the robot Salto that pushes in angled spines along their length and is kinematically constrained to engage/disengage with leg crouch/extension. The resulting mechanism introduces no new actuators, enables jumping on penetrable inclines up to 60°, and enables static adhesion to hold 7.5 times the robot's weight from a ceiling."
+  pdf: "http://people.eecs.berkeley.edu/~ronf/PAPERS/jlee-icra18.pdf"
+  id: "lee2018spinedgripper"
+  type: conference
+  image: "../images/lee2018spinedgripper.png"
+  bibtex: |
+      @inproceedings{lee2018self,
+      title={Self-engaging spined gripper with dynamic penetration and release for steep jumps},
+      author={Lee, Jessica S and Plecnik, Mark and Yang, Je-han and Fearing, Ronald S},
+      booktitle={2018 IEEE international conference on robotics and automation (ICRA)},
+      pages={6082--6089},
+      year={2018},
+      organization={IEEE}
+      }
