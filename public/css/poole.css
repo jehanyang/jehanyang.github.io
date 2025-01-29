@@ -71,6 +71,7 @@ a {
   text-decoration: none;
 }
 a strong {
+  font-weight: bold;
   color: inherit;
 }
 /* `:focus` is linked to `:hover` for basic accessibility */
@@ -110,6 +111,7 @@ p {
 }
 
 strong {
+  font-weight: bold;
   color: #303030;
 }
 
