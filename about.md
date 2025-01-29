@@ -2,7 +2,7 @@
 layout: page
 title: Hi, nice to meet you!
 ---
-<h3 class="message" style="line-height:1.5; margin-top:0.5rem; font-weight:normal; margin-bottom:0.2rem">
+<h3 class="message" style="line-height:1.5; margin-top:0.5rem; font-weight:normal; margin-bottom:0.2rem; font-size:12pt;">
 	👋 Hi there, I'm <b>Jehan Yang</b>. Thank you for your interest! I am currently a PhD student working on assistive robotics at CMU. My two advisors are <a href="https://zackory.com/">Zackory Erickson</a> in the Robotics Institute and <a href="https://engineering.cmu.edu/directory/bios/weber-douglas.html">Doug Weber</a> in Mechanical Engineering and the Neuroscience Institute. 
 </h3 >
 
