@@ -4,52 +4,86 @@
     display: flex;
     flex-direction: column;
     gap: 20px;
-    font-size: 14px;
-  }
-  
-  .publication-entry {
+    font-size: 12pt;
+}
+
+.publication-entry {
+display: flex;
+align-items: flex-start;
+gap: 15px;
+}
+
+.publication-image img {
+width: 150px;
+height: auto;
+border-radius: 5px;
+}
+
+.publication-details {
+flex: 1;
+}
+
+.publication-details h2 {
+font-size: 12pt;
+margin: 0;
+}
+
+.publication-details p {
+margin: 0px 0;
+}
+
+.publication-details a {
+text-decoration: none;
+color: #0056b3;
+font-weight: bold;
+}
+
+details {
+margin-top: 10px;
+cursor: pointer;
+}
+
+pre {
+background: #f4f4f4;
+padding: 10px;
+border-radius: 5px;
+overflow-x: auto;
+}
+
+strong {
+font-weight: 700;
+}
+
+.publication-entry {
     display: flex;
-    align-items: flex-start;
-    gap: 15px;
-  }
-  
-  .publication-image img {
-    width: 150px;
+    align-items: center; /* Ensures vertical centering */
+    gap: 15px; /* Adjust spacing between image and text */
+    border-top: 1px solid #ddd;
+    padding: 15px 0;
+}
+
+.publication-image img {
+    width: 200px; /* Adjust as needed */
     height: auto;
     border-radius: 5px;
-  }
-  
-  .publication-details {
+    object-fit: cover; /* Ensures proper scaling */
+    
+    /* Fix bottom margin issue */
+    display: block;
+    margin: 0; /* Ensures no extra margin is applied */
+    padding: 0; /* Resets any internal padding */
+    line-height: 1; /* Prevents line-height from affecting spacing */
+}
+
+.publication-details {
     flex: 1;
-  }
-  
-  .publication-details h2 {
-    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Ensures vertical centering */
     margin: 0;
-  }
-  
-  .publication-details p {
-    margin: 5px 0;
-  }
-  
-  .publication-details a {
-    text-decoration: none;
-    color: #0056b3;
-    font-weight: bold;
-  }
-  
-  details {
-    margin-top: 10px;
-    cursor: pointer;
-  }
-  
-  pre {
-    background: #f4f4f4;
-    padding: 10px;
-    border-radius: 5px;
-    overflow-x: auto;
-  }
-  
-  strong {
-    font-weight: 700;
-  }
+    padding: 0;
+}
+
+html {
+    font-size: 12pt;
+}

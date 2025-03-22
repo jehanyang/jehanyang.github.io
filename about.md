@@ -2,14 +2,14 @@
 layout: page
 title: Hi, nice to meet you!
 ---
-<h3 class="message" style="line-height:1.5; margin-top:0.5rem; font-weight:normal; margin-bottom:0.2rem">
+<h3 class="message" style="line-height:1.5; margin-top:0.5rem; font-weight:normal; margin-bottom:0.2rem; font-size:12pt;">
 	👋 Hi there, I'm <b>Jehan Yang</b>. Thank you for your interest! I am currently a PhD student working on assistive robotics at CMU. My two advisors are <a href="https://zackory.com/">Zackory Erickson</a> in the Robotics Institute and <a href="https://engineering.cmu.edu/directory/bios/weber-douglas.html">Doug Weber</a> in Mechanical Engineering and the Neuroscience Institute. 
 </h3 >
 
 <img src="/images/jehanfull2-min.jpg" alt="Jehan in a red CMU pullover" style="float: left; margin: 1rem; height: 18rem; margin-bottom: 0.1rem; margin-left:0.1rem"/>
-My goal is to become a robotics researcher that advances the field by having robots safely and efficiently help humans. To achieve this goal, I have interests in physical human robot interaction, control theory, and machine learning. One day, I hope to see robots interacting seamlessly with humans. 
+I'm working on research with an interest in having robots and AI safely and efficiently help humans. To achieve this goal, I have interests in physical human robot interaction, and machine learning. One day, I hope to see robots and devices powered by AI interacting seamlessly with humans. 
 
-Due to a close friend and family members having paralysis of the upper and lower body, in my research I'm particularly interested in robotics that can help people in this population.
+Due to a close friend and family members having paralysis of the upper and lower body, in my research I'm particularly interested in systems that can help people in this population.
 
 I received my BS at UC Berkeley in Mechanical Engineering and my MS at Caltech in Electrical Engineering. At Caltech, I worked in the [AMBER Lab](http://www.bipedalrobotics.com/) with Professor [Aaron Ames](http://www.bipedalrobotics.com/people.html). At UC Berkeley, I worked in the [Biomimetic Millisystems Lab](https://people.eecs.berkeley.edu/~ronf/Biomimetics.html) with Professor [Ronald S. Fearing](https://people.eecs.berkeley.edu/~ronf/) and in the [Gu Research Group](https://gu.berkeley.edu) with Professor [Grace X. Gu](https://me.berkeley.edu/people/grace-x-gu/). In these labs, I worked on biomimetic robots, soft manipulators, and knee prosthetics.
 
