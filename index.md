@@ -9,7 +9,7 @@ title: Home
 ## Recent News -->
 <ul style="margin-bottom:0px">
 <li><em>January 2025</em>&mdash;<a href="https://www.nature.com/articles/s44182-025-00018-3">My work</a> in HDEMG for assistive robot control has just been published in Nature Partner Journals in Robotics! </li>
-<li><em>December 2024</em>&mdash;I will present <a href="https://emgbench.github.io">my work</a> at NeurIPS 2024 involving open-source EMG gesture recognition for generalization and adaptation across people! This technology is transformative for improving the lives of people with amputations and paralysis. </li>
+<li><em>December 2024</em>&mdash;I will present <a href="https://emgbench.github.io">my work</a> at NeurIPS 2024 involving open-source EMG gesture recognition for generalization and adaptation across people! </li>
 <li><em>March 2024</em>&mdash;<a href="https://dl.acm.org/doi/10.1145/3610977.3634964">Our work</a> involving the control of a mobile manipulator robot to perform various home tasks in the home of a person with quadriplegia won Best Paper at HRI 2024! See link. </li>
 </ul>
 <details class="toggle-details">
