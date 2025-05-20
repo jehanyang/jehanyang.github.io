@@ -1,7 +1,7 @@
 # Setup
 title:               'Jehan Yang'
-tagline:             'Pursuing Work in Advanced Robotics'
-description:         'I am a <b>PhD student at CMU</b > that works on healthcare robotics! This is my <b>personal website</b > where I hope to put impactful advice and ideas for aspiring robotics enthusiasts.'
+tagline:             'Researcher'
+description:         'I am currently a <b>PhD student at CMU</b >!'
 url:                 https://jehanyang.github.io
 baseurl:             ''
 paginate:            5
